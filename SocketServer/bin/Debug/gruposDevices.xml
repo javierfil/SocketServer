@@ -1,0 +1,16 @@
+<GruposDevices>
+  <GrupoDevice id="AccessToPlant">
+    <Device id="HandHeld001" />
+    <Device id="HandHeld002" />
+  </GrupoDevice>
+  <GrupoDevice id="AccessToZone">
+    <Device id="HandHeld001" />
+    <Device id="HandHeld002" />
+  </GrupoDevice>
+  <GrupoDevice id="All">
+    <Device id="HandHeld001" />
+    <Device id="HandHeld002" />
+    <Device id="HandHeld003" />
+    <Device id="HandHeld004" />
+  </GrupoDevice>
+</GruposDevices>

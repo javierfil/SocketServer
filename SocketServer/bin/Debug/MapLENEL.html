@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Maps JavaScript API v3 Example: Map Simple</title>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <style type="text/css">
+      html, body, #map_canvas {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style>
+    <script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript">
+      var map;
+	  var marker;
+	  
+		// Coleccion de zonas. Todas las zonas del mapa.
+		var zonas = new Array();
+		// Coleccion de puertas. Todas las puertas del mapa, de todas las zonas. Todas.
+		var gates = new Array();
+	  
+	  
+	  
+	  
+      function initialize() {
+        var myOptions = {
+          zoom: [ZOOM],
+          center: new google.maps.LatLng([LAT],[LONG]),
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        map = new google.maps.Map(document.getElementById('map_canvas'),
+            myOptions);
+		
+		 marker = new google.maps.Marker({
+          map: map,
+          position: map.getCenter()
+        });
+			
+      }
+	  
+	  function setPos(geoCoord)
+	  {
+	  	var coordArray = geoCoord.split(",");	// Convierte el array serializado en array nuevamente
+	    var posToResaltar = new google.maps.LatLng(coordArray[0],coordArray[1]);
+		map.setCenter(posToResaltar);
+		marker.setPosition(posToResaltar);
+	  }
+	  
+	  
+	 function verZonas(datosZonas) {
+
+            // Primero borro todas las zonas previamente definidas.
+            for (var indice = 0; indice < gates.length; indice++) {
+                gates[indice].setMap(null);
+            }
+
+            var posFrom = new google.maps.LatLng("-32", "-50");
+            var posTo = new google.maps.LatLng("-30", "-55");
+
+            var pointsInGate = new Array();
+
+            pointsInGate[0] = posFrom;
+            pointsInGate[1] = posTo;
+
+            var lineOpts = {
+                map: map,
+                track: pointsInGate
+            }
+            var linea = new google.maps.Polyline(lineOpts);
+
+
+            var datosZonas = datosZonas.split("|");
+
+            for (var indice = 0; indice < datosZonas.length; indice++) {
+                datosPuertas = datosZonas[indice].split(",");
+                var primero = "";
+                for (i = 0; i < datosPuertas.length; i = i + 5) {
+                 
+                        latFrom = datosPuertas[i];
+                        lngFrom = datosPuertas[i + 1];
+
+                        latTo = datosPuertas[i + 2];
+                        lngTo = datosPuertas[i + 3];
+
+                        color = datosPuertas[i + 4];
+                        
+                        
+                  
+                    var posFrom = new google.maps.LatLng(latFrom, lngFrom);
+                    var posTo = new google.maps.LatLng(latTo, lngTo);
+
+                    var pointsInGate = new Array();
+
+                    pointsInGate[0] = posFrom;
+                    pointsInGate[1] = posTo;
+
+                    // Opciones de la gate
+                    lineOpts = {
+                        map: map,
+                        path: pointsInGate,
+                        strokeColor: color
+                    }
+
+                    var ind = gates.length;
+                    gates[ind] = new google.maps.Polyline(lineOpts);
+                }
+            }
+            return gates.length.toString();
+        }
+	  
+	  
+	  
+	  
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+    <div id="map_canvas"></div>
+  </body>
+</html>

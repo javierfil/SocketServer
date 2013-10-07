@@ -1,0 +1,6 @@
+<AccesosAZonas>
+  <AccesoAZona HHID="HH02" ZoneID="Segunda" GateID="Segunda- Gate 1" Hora="2012-12-17 12:53:03" Tipo="Salida" />
+  <AccesoAZona HHID="HH02" ZoneID="Segunda" GateID="Segunda- Gate 3" Hora="2012-12-17 12:53:03" Tipo="Salida" />
+  <AccesoAZona HHID="HH02" ZoneID="ALUTEL" GateID="ALUTEL- Gate 1" Hora="2012-12-17 12:53:03" Tipo="Salida" />
+  <AccesoAZona HHID="HH02" ZoneID="ALUTEL" GateID="ALUTEL- Gate 2" Hora="2012-12-17 12:53:03" Tipo="INVALIDO" />
+</AccesosAZonas>

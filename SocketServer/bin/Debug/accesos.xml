@@ -1,0 +1,10 @@
+<Accesos>
+  <Acceso id="83" HHID="PSION" tarjeta="4005401548638" latitud="-34.8963483333333" longitud="-56.1822" hora="2012-12-24 11:41:47" imageFile="83.jpg" tipoAcceso="Entrada" />
+  <Acceso id="82" HHID="PSION" tarjeta="4005401548638" latitud="-34.8963533333333" longitud="-56.1822133333333" hora="2012-12-24 11:40:11" imageFile="82.jpg" tipoAcceso="Salida" />
+  <Acceso id="81" HHID="PSION" tarjeta="4005401548638" latitud="-34.8963533333333" longitud="-56.1822133333333" hora="2012-12-24 11:39:38" imageFile="" tipoAcceso="Entrada" />
+  <Acceso id="80" HHID="PSION" tarjeta="4005401548638" latitud="-34.8963733333333" longitud="-56.182205" hora="2012-12-24 11:22:06" imageFile="" tipoAcceso="Entrada" />
+  <Acceso id="79" HHID="HH03" tarjeta="3000E20010018304005216506AC7" latitud="Latitud" longitud="Longitud" hora="2012-12-21 16:53:04" imageFile="" tipoAcceso="Entrada" />
+  <Acceso id="77" HHID="HH03" tarjeta="3000E20010018304005216506AC7" latitud="Latitud" longitud="Longitud" hora="2012-12-09 13:19:09" imageFile="77.jpg" tipoAcceso="Entrada" />
+  <Acceso id="76" HHID="HH03" tarjeta="3000E20010018304005216506AC7" latitud="Latitud" longitud="Longitud" hora="2012-12-09 13:18:35" imageFile="" tipoAcceso="Entrada" />
+  <Acceso id="75" HHID="HH04" tarjeta="3000E20010018304005216506AC7" latitud="S:34.90937" longitud="W:56.16303" hora="2012-12-08 20:19:40" imageFile="75.jpg" tipoAcceso="Entrada" />
+</Accesos>

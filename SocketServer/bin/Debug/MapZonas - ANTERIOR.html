@@ -1,0 +1,202 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Maps JavaScript API v3 Example: Map Simple</title>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <style type="text/css">
+      html, body, #map_canvas {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style>
+    <script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript">
+		var map;
+		var actualLatLng;
+		var markerArray = new Array(); 
+		var zonasArray = new Array();
+		  
+		var circOpts;
+		var circulo;
+		
+		// Variables para ver un track.
+		var pointsTrack = new Array();
+		var trackOpts;
+		var track;
+	  
+		function actualCoords()
+		{
+		return actualLatLng.toString();
+		}
+		function centroMapa()
+		{
+		return resultCenter;
+		}
+		function actualZoom()
+		{
+			return resultZoom;
+		}
+	// Resetea el track definido
+		function resetearTrack()
+		{
+			pointsTrack.length = 0;
+			trackOpts = {
+				map:map,
+				path: pointsTrack
+			}
+			
+			track.setOptions(trackOpts);
+		}
+		
+		
+		function agregarPuntoTrack(lat,lng)
+		{
+			var posToAdd = new google.maps.LatLng(lat,lng);
+			var indice = pointsTrack.length;
+			
+			pointsTrack[indice] = posToAdd;
+			
+			trackOpts = {
+				map:map,
+				path: pointsTrack,
+				strokeColor: "#FF0000"
+			}
+			
+			track.setOptions(trackOpts);
+			
+			return indice;
+		}
+		
+	// Agrega un nuevo marker en la posicion actual del mouse.
+	// Ojo: Usa un array asociativo: nombre
+		function agregarMarker(nombre)
+		{
+			markerArray[nombre] = new google.maps.Marker({
+			  map: map,
+			  position: actualLatLng
+			});
+			return actualLatLng.toString();
+		}
+	
+		function borrarMarker(nombre)
+		{
+			var enc;
+			for (var indice in markerArray)
+			{
+				if (indice == nombre)
+				{
+					enc = indice;
+					markerArray[indice].setMap(null);
+					markerArray[indice] = null;
+				}
+			}
+			
+			return enc;
+		}
+	
+	// Funcion registrada para atender el evento mouseMove del mapa.
+	// Actualiza la latitud y longitud actual en tiempo real.
+		function registrarcoords(e)
+		{
+		actualLatLng =  e.latLng;
+		}
+	  
+		function crearZona(nombreZona)
+		{
+			var LatLongArray = new Array();
+
+			var i =0;
+			for (var indice in markerArray)
+			{
+				LatLongArray[i] = markerArray[indice].position;
+				i++;
+			}
+
+			var polOptions ={
+				map: map,
+				paths: LatLongArray
+			};
+			
+			var zona = new google.maps.Polygon(polOptions);
+			zonasArray[nombreZona] = zona;
+		}
+	  
+		function verZona(nombreZona)
+		{
+			for (i=0;i<zonasArray.length;i++)
+			{
+				zonasArray[i].setVisible(false);
+			}
+			zonasArray[nombreZona].setVisible(true);
+		}
+
+		function resaltarPunto( lat, lng)
+		{
+			var posToResaltar = new google.maps.LatLng(lat,lng);
+
+			circulo.setCenter(posToResaltar);
+			circulo.setVisible(true);
+		}
+	  
+		function noResaltarPunto()
+		{
+			circulo.setVisible(false);
+		}
+	  
+	  
+	  function centrarMapa(lat,lng)
+	  {
+		var posToGo = new google.maps.LatLng(lat,lng);
+		map.setCenter(posToGo)
+	  }
+	  
+	  // Inicializacion general: Crea el mapa, el circulo para resaltar un punto y la PolyLine para mostrar un track track.
+	  
+		function initialize() 
+		{
+			var myOptions = {
+			  zoom: [ZOOM],
+			  center: new google.maps.LatLng([LAT],[LONG]),
+			  mapTypeId: google.maps.MapTypeId.ROADMAP
+			};
+
+			map = new google.maps.Map(document.getElementById('map_canvas'), myOptions);
+
+			
+			// Circulo para resaltar
+			var initPos = new google.maps.LatLng(0,0);
+			circOpts = {
+				map:map,
+				center:initPos,
+				fillColor: "#009000",
+				fillOpacity: 0.6,
+				strokeColor: "#0000FF",
+				strokeWeight: 2,
+				radius : 15
+			};
+			circulo = new google.maps.Circle(circOpts); 
+
+			trackOpts = {
+				map: map,
+				track: pointsTrack
+				}
+			
+			track = new google.maps.Polyline(trackOpts);
+			
+			
+			// Registra el evento mouseMove sobre el mapa
+			 google.maps.event.addListener(map, 'mousemove', registrarcoords);
+		}
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+    <div id="map_canvas"></div>
+  </body>
+</html>

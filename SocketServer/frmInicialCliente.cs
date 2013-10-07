@@ -1,0 +1,514 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using System.Threading;
+using log4net;
+
+namespace ServerComunicacionesALUTEL
+{
+    public partial class frmInicialCliente : Form
+    {
+
+        public delegate void updateDeviceServerStatusDelegate(string msg, Color clr);
+        public delegate void updateOnGuardServerStatusDelegate(string msg, Color clr);
+        public delegate void updateConnectedDevicesDelegate();
+
+        private bool cleaningUP = false;
+        Aplicacion mainApp = null;
+        bool forceGeneralStart = true;      // Indica si en el proximo tick del timer se deben lanzar los servers.
+
+        public frmInicialCliente(Aplicacion v_mainApp)
+        {
+            mainApp = v_mainApp;
+            InitializeComponent();
+        }
+
+        private void frmInicialCliente_Load(object sender, EventArgs e)
+        {
+            notifyIcon.BalloonTipText = "ALUTEL Mobility Server";
+            notifyIcon.BalloonTipTitle = "Server started...";
+            notifyIcon.BalloonTipIcon = ToolTipIcon.Info;
+            tmrUpdateList.Enabled = true;
+        }
+
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+
+        }
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+//        
+// DELEGATES para actualizar el form desde cualquier Thread
+//
+        public void actualizarDeviceServerStatus(string texto, Color colorcito)
+        {
+
+            try
+            {
+                if (lblServerStatus.InvokeRequired)
+                {
+                    lblServerStatus.Invoke(new updateDeviceServerStatusDelegate(UpdateDeviceServerStatus), texto,colorcito);
+                }
+                else
+                {
+                    UpdateDeviceServerStatus(texto,colorcito);
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+        }
+
+
+       
+
+        private void UpdateDeviceServerStatus(string texto, Color colorcito)
+        {
+            
+
+            lblServerStatus.ForeColor = colorcito;
+            lblServerStatus.Text=texto;
+        }
+
+       
+        public void actualizarOnGuardServerStatus(string texto, Color colorcito)
+        {
+            try
+            {
+                if (lblOnGuardStatus.InvokeRequired)
+                {
+                    lblOnGuardStatus.Invoke(new updateOnGuardServerStatusDelegate(UpdateOnGuardServerStatus), texto, colorcito);
+                }
+                else
+                {
+                    UpdateOnGuardServerStatus(texto, colorcito);
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+        }
+
+        private void UpdateOnGuardServerStatus(string texto, Color colorcito)
+        {
+            lblOnGuardStatus.ForeColor = colorcito;
+            lblOnGuardStatus.Text = texto;
+        }
+
+       
+
+        public void actualizarConnectedDevices()
+        {
+            try
+            {
+                if (listViewDevices.InvokeRequired)
+                {
+                    listViewDevices.Invoke(new updateConnectedDevicesDelegate(UpdateListaDevices));
+                }
+                else
+                {
+                    UpdateListaDevices();
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+        }
+
+        private void initializeListViewDevices()
+        {
+            listViewDevices.View = View.Details;
+            listViewDevices.GridLines = true;
+            listViewDevices.Columns.Clear();
+            listViewDevices.Columns.Add("Device", 100, HorizontalAlignment.Left);
+            listViewDevices.Columns.Add("Status", 150, HorizontalAlignment.Left);
+
+
+            this.listViewDevices.MultiSelect = true;
+            this.listViewDevices.HideSelection = false;
+            this.listViewDevices.HeaderStyle = ColumnHeaderStyle.Nonclickable;
+
+        }
+
+
+        private void UpdateListaDevices()
+        {
+            
+           
+            
+            //listViewDevices.Items.Clear();
+
+            Dictionary<string, device> listaDevices = mainApp.DataManager.getListaDevices();
+
+            string estado = "";
+
+            foreach (KeyValuePair<string, device> pair in listaDevices)
+            {
+                Color colorEstado = Color.Green;
+                if (mainApp.ComunicationSystem.socketServerGeneral.isHandHeldOnLine(pair.Key))
+                {
+                    estado = "Online";
+                }
+                else
+                {
+                    estado = "Offline";
+                    colorEstado = Color.Red;
+                }
+                agregarOActualizarListView(pair.Key, estado,colorEstado);
+
+
+            }
+           
+
+
+        }
+
+
+
+        private void agregarOActualizarListView(string HHID, string estado, Color colorEstado)
+        {
+            bool enc = false;
+            foreach (ListViewItem item in listViewDevices.Items)
+            {
+                if (item.Text == HHID)
+                {
+                    item.UseItemStyleForSubItems = false;
+                    enc = true;
+                    item.SubItems[1].ForeColor = colorEstado;
+                    item.SubItems[1].Text = estado;
+                    
+                    break;
+                }
+               
+
+            }
+
+            if (!enc)
+            {
+                ListViewItem list = listViewDevices.Items.Add(HHID);
+                list.UseItemStyleForSubItems = false;
+                list.SubItems.Add(estado);
+                list.SubItems[1].ForeColor = colorEstado;
+                
+            }
+           
+        }
+
+        private void startLenelServer()
+        {
+            //actualizarOnGuardServerStatus("Starting...");
+
+            mainApp.LENELServerThread = new Thread(mainApp.ComunicationSystem.layerLENEL.startListening);
+            mainApp.alutrackServerThread = new Thread(mainApp.ComunicationSystem.layerALUTRACK.startListening);
+            mainApp.LENELServerThread.Name = "LENEL SERVER - " + mainApp.LENELServerThread.ManagedThreadId.ToString();
+            // Lanza el thread del server LENEL
+            mainApp.LENELServerThread.Start();
+            mainApp.alutrackServerThread.Start();
+            //Espera para que el thread efectivamente comience.
+            Thread.Sleep(500);
+            //tmrSend.Enabled = true;
+            //tmrRebindClient.Enabled = true;
+            //actualizarOnGuardServerStatus("Started...");
+        }
+
+        private void startDeviceServer()
+        {
+
+            try
+            {
+
+                //actualizarDeviceServerStatus("Starting....");
+                StaticTools.loguearString("startDeviceServer() - Lanzando Thread");
+                mainApp.alutrackServerThread = new Thread(new ThreadStart(mainApp.ComunicationSystem.socketServerGeneral.StartListening));
+                mainApp.alutrackServerThread.Name = "SOCKET SERVER - " + mainApp.alutrackServerThread.ManagedThreadId.ToString();
+                // Lanza el thread
+
+                mainApp.alutrackServerThread.Start();
+
+                //Espera para que el thread efectivamente comience.
+                //          while (!mainApp.mainThread.IsAlive) ;
+                Thread.Sleep(500);
+              
+               // tmrRebindClient.Enabled = true;
+
+
+                //actualizarDeviceServerStatus("Started....");
+
+            }
+            catch (Exception exc)
+            {
+                //LOGToFile.doLOGExcepciones("Excepcion no controlada: " + exc.Message + " SALIENDO del programa");
+
+                StaticTools.loguearString("startDeviceServer() - Excepcion no controlada: " + exc.Message + " SALIENDO del programa");
+
+            }
+
+        }
+
+        private void tmrUpdateList_Tick(object sender, EventArgs e)
+        {
+            if (forceGeneralStart)
+            {
+                initializeListViewDevices();
+
+                doRestart(false);
+                forceGeneralStart = false;
+            }
+
+            if ((mainApp.ComunicationSystem != null) && !cleaningUP)
+            {
+                if (!mainApp.ComunicationSystem.layerLENEL.isListening)
+                {
+                    actualizarOnGuardServerStatus("Server stopped", Color.Red);
+                }
+            }
+            actualizarConnectedDevices();
+        }
+
+
+        private void stopDeviceServer()
+        {
+            //tmrRebindClient.Enabled = false;
+            StaticTools.reBind = false;
+            mainApp.ComunicationSystem.socketServerGeneral.stopListening();
+
+
+
+            Thread.Sleep(500);
+
+
+            try
+            {
+                StaticTools.obtenerMutex_StateObjectClients();
+
+                Dictionary<string, StateObject> listaClientes = mainApp.ComunicationSystem.socketServerGeneral.stateObjectsClients;
+
+                List<StateObject> listaClientesBackup = new List<StateObject>();
+
+                foreach (KeyValuePair<string, StateObject> Cliente in listaClientes)
+                {
+                    StateObject p = new StateObject();
+                    p = Cliente.Value;
+
+                    listaClientesBackup.Add(p);
+                }
+
+                foreach (StateObject estado in listaClientesBackup)
+                {
+                    estado.abortAllThreads(null);
+                    estado.closeAllSockets();
+                }
+
+                mainApp.alutrackServerThread.Abort();
+               
+            }
+            catch (Exception)
+            {
+            }
+            finally
+            {
+                StaticTools.liberarMutex_StateObjectClients();
+            }
+
+        }
+
+        private void stopLenelServer()
+        {
+            mainApp.ComunicationSystem.layerLENEL.stopListening();
+            Thread.Sleep(500);
+            if (mainApp.LENELServerThread != null)
+            {
+                mainApp.LENELServerThread.Abort();
+            }
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+                Application.Exit();  // Esto dispara el formClosing()
+        }
+
+        private bool doExit()
+        {
+            bool res = false;
+            DialogResult choice = MessageBox.Show("This will stop all services, are you shure yo want to exit?", "Confirmation Required", MessageBoxButtons.YesNo);
+
+            if (choice == DialogResult.Yes)
+            {
+                stopDeviceServer();
+                stopLenelServer();
+                res = true;
+
+
+            }
+            return res;
+        }
+
+        private void btnConfiguration_Click(object sender, EventArgs e)
+        {
+            if (!mainApp.formConfiguracion.IsDisposed)
+            {
+                mainApp.formConfiguracion.ShowDialog();
+            }
+            else
+            {
+                mainApp.formConfiguracion = new frmConfiguracion(mainApp);
+                mainApp.formConfiguracion.ShowDialog();
+            }
+
+            if (!mainApp.formConfiguracion.IsDisposed)
+            {
+                if ((bool)mainApp.formConfiguracion.Tag == true)
+                {
+                    DialogResult choice = MessageBox.Show("Do you want to restart the Server?", "Confirmation Required", MessageBoxButtons.YesNo);
+
+                    if (choice == DialogResult.Yes)
+                    {
+                        doRestart(true);
+                    }
+                }
+            }
+   
+        }
+
+        private void frmInicialCliente_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (!doExit())
+            {
+                e.Cancel = true;
+            }
+
+            log4net.LogManager.Shutdown();
+
+        }
+
+        private void btnRestart_Click(object sender, EventArgs e)
+        {
+
+            DialogResult choice = MessageBox.Show("Do you really want to Restart the server?", "Confirmation Required", MessageBoxButtons.YesNo);
+
+            if (choice == DialogResult.Yes)
+            {
+                doRestart(true);
+            }
+
+        }
+
+
+
+        private void doRestart(bool stopRequired)
+        {
+
+            //Thread t = new Thread(() => ThreadEnviarVersionImagenes(e));
+            Thread ThreadStart = new Thread(() => okRestart(stopRequired));
+
+            ThreadStart.Start();
+        }
+
+        private void okRestart(bool stopRequired)
+        {
+            cleaningUP = true;
+            if (stopRequired)
+            {
+                //DEVICE Server
+                actualizarDeviceServerStatus("Stopping  server..",Color.Red);
+                Thread.Sleep(500);
+                stopDeviceServer();
+
+                actualizarConnectedDevices();
+                actualizarDeviceServerStatus("Server stopped..",Color.Red);
+                Thread.Sleep(500);
+
+                // LENEL Server
+              
+                Thread.Sleep(500);
+                stopLenelServer();
+
+                actualizarOnGuardServerStatus("Server stopped..",Color.Red);
+                Thread.Sleep(500);
+
+            }
+
+            actualizarDeviceServerStatus("Cleaning up ...",Color.Blue);
+            actualizarOnGuardServerStatus("Cleaning up..", Color.Blue);
+            Color warningColor = Color.Green;
+            if (!mainApp.Init2())
+            {
+                warningColor = Color.Red;
+            }
+
+            actualizarDeviceServerStatus("Starting Server..", warningColor);
+
+            Thread.Sleep(500);
+            try
+            {
+                startDeviceServer();
+                actualizarDeviceServerStatus("Server started", warningColor);
+
+            }
+            catch (Exception)
+            {
+                actualizarDeviceServerStatus("Server failed to start", Color.Red);
+            }
+
+           
+
+
+
+
+            actualizarOnGuardServerStatus("Starting Server..", warningColor);
+
+            Thread.Sleep(500);
+
+            try
+            {
+                startLenelServer();
+                actualizarOnGuardServerStatus("Server started", warningColor);
+            }
+            catch (Exception)
+            {
+                actualizarOnGuardServerStatus("Server failed to start", Color.Red);
+            }
+            //tmrRebindClient.Enabled = true;
+            cleaningUP = false;
+           
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            StaticTools.reBind = true;
+            StaticTools.doRebind();
+        }
+
+        private void tmrRebindClient_Tick(object sender, EventArgs e)
+        {
+            if (!cleaningUP)
+            {
+                StaticTools.doRebind();
+                Thread.Sleep(200);
+            }
+        }
+
+        private void frmInicialCliente_Resize(object sender, EventArgs e)
+        {
+            if (FormWindowState.Minimized == WindowState)
+                Hide();
+        }
+
+        private void notifyIcon_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            Show();
+            WindowState = FormWindowState.Normal;
+        }
+
+    }
+}

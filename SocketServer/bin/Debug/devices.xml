@@ -1,0 +1,12 @@
+<Devices>
+  <Device id="Laboratorio" />
+  <Device id="Michel" />
+  <Device id="Nacho" />
+  <Device id="Javier" />
+  <Device id="Jose" />
+  <Device id="Noe" />
+  <Device id="HH01" />
+  <Device id="HH02" />
+  <Device id="HH03" />
+  <Device id="HH04" />
+</Devices>

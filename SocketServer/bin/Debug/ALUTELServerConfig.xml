@@ -1,0 +1,12 @@
+<ConfigParameters>
+  <ConfigParameter id="OnGuardPort1" value="11008" />
+  <ConfigParameter id="OnGuardPort2" value="11009" />
+  <ConfigParameter id="SendPort" value="11005" />
+  <ConfigParameter id="ReceivePort" value="11004" />
+  <ConfigParameter id="ImagesPath" value="C:\TEMP" />
+  <ConfigParameter id="DataSource" value="LOCALHOST" />
+  <ConfigParameter id="DataBaseName" value="GPS" />
+  <ConfigParameter id="DBUserName" value="alutel" />
+  <ConfigParameter id="DBPassword" value="alutel" />
+  <ConfigParameter id="ServerType" value="BIG" />
+</ConfigParameters>

@@ -1,0 +1,58 @@
+﻿//#define VERSIONCLIENTE
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ServerComunicacionesALUTEL
+{
+    public class Puertos
+    {
+        // PUERTOS PC NACHO
+#if !VERSIONCLIENTE
+        private static int PORT_SEND_Lab = 11001;
+        private static int PORT_RECEIVE_Lab = 11000;
+      
+        // PUERTOS SERVER
+        private static int PORT_SEND_S = 11005;
+        private static int PORT_RECEIVE_S = 11004;
+#endif
+     
+
+        public int PORT_TO_SEND;
+        public int PORT_TO_RECEIVE;
+     
+
+        public bool tipoPuertos; 
+        /// <summary>
+        /// Elijo los puertos a los cuales conectarme:
+        /// True para conectar al servidor, 
+        /// False para conectar a PC Nacho 
+        /// </summary>
+        /// <param name="_server">True para conectar al servidor, False para conectar a PC Nacho </param>
+        public Puertos(bool _server)
+        {
+#if VERSIONCLIENTE
+            PORT_TO_SEND =SystemConfiguration.SendPort;
+             PORT_TO_RECEIVE = SystemConfiguration.ReceivePort;
+#else
+            if (_server)
+            {
+                PORT_TO_SEND = PORT_SEND_S;
+                PORT_TO_RECEIVE = PORT_RECEIVE_S;
+               // PORT_ALIVE_RECEIVE = PORT_A_RECEIVE_S;
+               // PORT_ALIVE_SEND = PORT_A_SEND_S;
+            }
+            else
+            {
+                PORT_TO_SEND = PORT_SEND_Lab;
+                PORT_TO_RECEIVE = PORT_RECEIVE_Lab;
+               // PORT_ALIVE_RECEIVE = PORT_A_RECEIVE_Lab;
+               // PORT_ALIVE_SEND = PORT_A_SEND_Lab;
+            }
+#endif
+
+            tipoPuertos = _server;
+        }
+    }
+}

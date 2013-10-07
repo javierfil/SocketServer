@@ -1,0 +1,8 @@
+<Zonas>
+  <Zona id="rr">
+    <Puerta id="rr- Gate 1" type="Forbidden" latfrom="0.0022959709161376094" lngfrom=" -0.003154277801513672" latto="-0.0010299682616661802" lngto=" -0.002574920654296875" />
+    <Puerta id="rr- Gate 2" type="Forbidden" latfrom="-0.0010299682616661802" lngfrom=" -0.002574920654296875" latto="-0.0021886825556223905" lngto=" 0.0018668174743652343" />
+    <Puerta id="rr- Gate 3" type="Forbidden" latfrom="-0.0021886825556223905" lngfrom=" 0.0018668174743652343" latto="0.0019526481624736417" lngto=" 0.004506111145019531" />
+    <Puerta id="rr- Gate 4" type="Forbidden" latfrom="0.0019526481624736417" lngfrom=" 0.004506111145019531" latto="0.0022959709161376094" lngto=" -0.003154277801513672" />
+  </Zona>
+</Zonas>

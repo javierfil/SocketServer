@@ -1,0 +1,14 @@
+<GruposUsuarios>
+  <GrupoUsuario id="Administrators">
+    <Usuario id="2259" />
+  </GrupoUsuario>
+  <GrupoUsuario id="Technicians">
+    <Usuario id="10549" />
+    <Usuario id="6785482" />
+  </GrupoUsuario>
+  <GrupoUsuario id="All">
+    <Usuario id="2259" />
+    <Usuario id="6785482" />
+    <Usuario id="10549" />
+  </GrupoUsuario>
+</GruposUsuarios>

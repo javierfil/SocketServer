@@ -1,0 +1,9 @@
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Form1.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Properties.Resources.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb

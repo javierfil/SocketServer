@@ -1,0 +1,670 @@
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\temp\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\temp\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\temp\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.2\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Trabajos\ALUTEL\SocketServer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Administrador\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.4\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.5\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.6\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.8(confirma Datos)Prueba\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.0.9\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\Test SDK\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Daniel\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.1.1V3\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Alutel\Dropbox\Alutel\SDK Chainway\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.2.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.3.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Jorge\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.4.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Javier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.5.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicialCliente.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vClienteV2\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\bin\Debug\ALUTELSocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\bin\Debug\ALUTELSocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicialCliente.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.pdb
+C:\Trabajos\INTEGRACION ALUTRACK SERVER\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.exe
+C:\Trabajos\INTEGRACION ALUTRACK SERVER\vIntegradaALUTRACKLayer\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\bin\Debug\ALUTELSocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\bin\Debug\ALUTELSocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicialCliente.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\v1.6.0\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.pdb
+C:\Trabajos\SocketServer\SocketServer\SocketServer\bin\Debug\ALUTELSocketServer.exe
+C:\Trabajos\SocketServer\SocketServer\SocketServer\bin\Debug\ALUTELSocketServer.pdb
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfigAcceso.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmConfiguracion.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoDevices.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmCrearGrupoUsuarios.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmDevices.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmGrupos.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmImportarLENEL.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicial.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmInicialCliente.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmUsuarios.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.frmVirtualGate.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ServerComunicacionesALUTEL.Properties.Resources.resources
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\SocketReceiver.csproj.GenerateResource.Cache
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.exe
+C:\Trabajos\SocketServer\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.pdb
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\V1.7.0\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.exe
+C:\Users\Jorge\DropBoxJavier\Dropbox\00. Programa Principal\FTP\Server\V1.7.0\SocketServer\SocketServer\obj\x86\Debug\ALUTELSocketServer.pdb

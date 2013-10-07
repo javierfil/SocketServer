@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketReceiver", "SocketServer\SocketReceiver.csproj", "{169938C9-A7B9-49CA-985B-12049698CA54}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProyectoSetup", "ProyectoSetup\ProyectoSetup.vdproj", "{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Debug|x86.ActiveCfg = Debug|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Debug|x86.Build.0 = Debug|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Release|Any CPU.ActiveCfg = Release|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Release|Mixed Platforms.Build.0 = Release|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Release|x86.ActiveCfg = Release|x86
+		{169938C9-A7B9-49CA-985B-12049698CA54}.Release|x86.Build.0 = Release|x86
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Debug|Any CPU.ActiveCfg = Debug
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Debug|Any CPU.Build.0 = Debug
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Debug|Mixed Platforms.Build.0 = Debug
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Debug|x86.ActiveCfg = Debug
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Release|Any CPU.ActiveCfg = Release
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Release|Any CPU.Build.0 = Release
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Release|Mixed Platforms.ActiveCfg = Release
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Release|Mixed Platforms.Build.0 = Release
+		{D0ED96D2-CB0D-4AC9-B7B3-CF29CD6B1AB1}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

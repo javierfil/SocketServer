@@ -1,0 +1,4 @@
+<ReglasAcceso>
+  <ReglaAcceso id="Administrators----&gt;AccessToZone" grupoUsuario="Administrators" grupoDevice="AccessToZone" />
+  <ReglaAcceso id="Technicians----&gt;AccessToPlant" grupoUsuario="Technicians" grupoDevice="AccessToPlant" />
+</ReglasAcceso>

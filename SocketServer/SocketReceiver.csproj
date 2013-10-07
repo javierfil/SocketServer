@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{169938C9-A7B9-49CA-985B-12049698CA54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ServerComunicacionesALUTEL</RootNamespace>
+    <AssemblyName>ALUTELSocketServer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>iconohh.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Encriptar Datos, Version=1.0.4850.23695, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acceso.cs" />
+    <Compile Include="AccessLevelData.cs" />
+    <Compile Include="AccessLevelLogic.cs" />
+    <Compile Include="LAYERAlutrack.cs" />
+    <Compile Include="LAYERHHGPS.cs" />
+    <Compile Include="Aplicacion.cs" />
+    <Compile Include="communicationSystem.cs" />
+    <Compile Include="frmInicialCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicialCliente.Designer.cs">
+      <DependentUpon>frmInicialCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HolidayData.cs" />
+    <Compile Include="LAYERCommunication.cs" />
+    <Compile Include="LENELAccessLevels.cs" />
+    <Compile Include="LENELBadgeAccessLevels.cs" />
+    <Compile Include="LAYERLenel.cs" />
+    <Compile Include="LENELTimezones.cs" />
+    <Compile Include="Puertos.cs" />
+    <Compile Include="StaticTools.cs" />
+    <Compile Include="SystemConfiguration.cs" />
+    <Compile Include="Tarjeta.cs" />
+    <Compile Include="TimeZoneData.cs" />
+    <Compile Include="TZInterval.cs" />
+    <Compile Include="ZoneAccess.cs" />
+    <Compile Include="CustomEventArgs.cs" />
+    <Compile Include="dataManager.cs" />
+    <Compile Include="device.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="enums.cs" />
+    <Compile Include="EventoGPS.cs" />
+    <Compile Include="frmConfigAcceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigAcceso.Designer.cs">
+      <DependentUpon>frmConfigAcceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfiguracion.Designer.cs">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearGrupoDevices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearGrupoDevices.Designer.cs">
+      <DependentUpon>frmCrearGrupoDevices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearGrupoUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearGrupoUsuarios.Designer.cs">
+      <DependentUpon>frmCrearGrupoUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDevices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDevices.Designer.cs">
+      <DependentUpon>frmDevices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupos.Designer.cs">
+      <DependentUpon>frmGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportarLENEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportarLENEL.Designer.cs">
+      <DependentUpon>frmImportarLENEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicial.Designer.cs">
+      <DependentUpon>frmInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarios.Designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVirtualGate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVirtualGate.designer.cs">
+      <DependentUpon>frmVirtualGate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobToSendToClient.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocketServer.cs" />
+    <Compile Include="StateObject.cs" />
+    <Compile Include="Visita.cs" />
+    <EmbeddedResource Include="frmConfigAcceso.resx">
+      <DependentUpon>frmConfigAcceso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfiguracion.resx">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearGrupoDevices.resx">
+      <DependentUpon>frmCrearGrupoDevices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearGrupoUsuarios.resx">
+      <DependentUpon>frmCrearGrupoUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDevices.resx">
+      <DependentUpon>frmDevices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupos.resx">
+      <DependentUpon>frmGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportarLENEL.resx">
+      <DependentUpon>frmImportarLENEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicial.resx">
+      <DependentUpon>frmInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicialCliente.resx">
+      <DependentUpon>frmInicialCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVirtualGate.resx">
+      <DependentUpon>frmVirtualGate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Zone.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALUTELlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User1ch1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-group-iconch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device Icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_accessCh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_iconCh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfigurationIconCh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HHServerIcon.ico" />
+    <Content Include="HHServerIconV2 %283%29.ico" />
+    <Content Include="HHServerIconV2 %284%29.ico" />
+    <Content Include="iconohh.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
